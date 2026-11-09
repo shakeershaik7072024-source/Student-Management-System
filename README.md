@@ -17,5 +17,5 @@ A console-based Java application developed to manage student records efficiently
 
 ## 💻 How to Run
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/shakeershaik7072024-source/Student-Management-System.git](https://github.com/shakeershaik7072024-source/Student-Management-System.git)
+```bash
+git clone [https://github.com/shakeershaik7072024-source/Student-Management-System.git](https://github.com/shakeershaik7072024-source/Student-Management-System.git)
